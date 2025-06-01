@@ -8,7 +8,7 @@ const SpecialityMenu = () => {
       className="flex flex-col items-center gap-6 py-20 px-6 bg-gradient-to-r from-blue-50 via-white to-blue-50 text-gray-900"
       id="speciality"
     >
-      <h1 className="text-4xl font-extrabold mb-2 text-center text-blue-900">
+      <h1 className="text-4xl font-extrabold mb-2 text-center text-sky-900">
         Find By Speciality
       </h1>
       <p className="max-w-xl text-center text-gray-700 text-lg mb-8">
