@@ -1,10 +1,11 @@
 import React from "react";
-import { Header } from "../components";
+import { Header, SpecialityMenu } from "../components";
 
 const Home = () => {
   return (
     <div>
       <Header />
+      <SpecialityMenu />
     </div>
   );
 };

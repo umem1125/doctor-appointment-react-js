@@ -60,26 +60,32 @@ export const assets = {
 export const specialityData = [
   {
     speciality: "Dokter Umum",
+    url: "dokter-umum",
     image: General_physician,
   },
   {
     speciality: "Dokter Kandungan",
+    url: "dokter-kandungan",
     image: Gynecologist,
   },
   {
     speciality: "Dokter Kulit",
+    url: "dokter-kulit",
     image: Dermatologist,
   },
   {
     speciality: "Dokter Anak",
+    url: "dokter-anak",
     image: Pediatricians,
   },
   {
     speciality: "Dokter Saraf",
+    url: "dokter-saraf",
     image: Neurologist,
   },
   {
     speciality: "Dokter Spesialis Saluran Pencernaan",
+    url: "dokter-spesialis-saluran-pencernaan",
     image: Gastroenterologist,
   },
 ];
