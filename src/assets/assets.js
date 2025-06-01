@@ -184,7 +184,7 @@ export const doctors = [
     _id: "doc5",
     name: "Dr. Jennifer Garcia",
     image: doc5,
-    speciality: "Ahli Saraf",
+    speciality: "Dokter Saraf",
     degree: "MBBS",
     experience: "4 Tahun",
     about:
@@ -199,7 +199,7 @@ export const doctors = [
     _id: "doc6",
     name: "Dr. Andrew Williams",
     image: doc6,
-    speciality: "Ahli Saraf",
+    speciality: "Dokter Saraf",
     degree: "MBBS",
     experience: "4 Tahun",
     about:
@@ -274,7 +274,7 @@ export const doctors = [
     _id: "doc11",
     name: "Dr. Zoe Kelly",
     image: doc11,
-    speciality: "Ahli Saraf",
+    speciality: "Dokter Saraf",
     degree: "MBBS",
     experience: "4 Tahun",
     about:
@@ -289,7 +289,7 @@ export const doctors = [
     _id: "doc12",
     name: "Dr. Patrick Harris",
     image: doc12,
-    speciality: "Ahli Saraf",
+    speciality: "Dokter Saraf",
     degree: "MBBS",
     experience: "4 Tahun",
     about:
@@ -334,7 +334,7 @@ export const doctors = [
     _id: "doc15",
     name: "Dr. Amelia Hill",
     image: doc15,
-    speciality: "Dokter Kulit",
+    speciality: "Dokter Spesialis Saluran Pencernaan",
     degree: "MBBS",
     experience: "1 Tahun",
     about:
