@@ -162,7 +162,7 @@ const Appointment = () => {
           </button>
         </div>
         {/* todo: related doctors */}
-        <RelatedDoctors />
+        <RelatedDoctors docId={docId} speciality={docInfo.speciality} />
       </div>
     )
   );
